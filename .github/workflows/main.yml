@@ -36,5 +36,5 @@ jobs:
           echo test, and deploy your project.
           echo git version?
           git --version
-          echo python verson?
-          python--version
+          echo python version?
+          python --version
